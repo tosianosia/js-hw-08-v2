@@ -5,7 +5,7 @@
   "homepage": "https://tosianosia.github.io/js-hw-08-v2",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html -- --public-url=/js-hw-08-v2/"
+    "build": "parcel build src/*.html --public-url /js-hw-08-v2/"
   },
   "repository": {
     "type": "git",
